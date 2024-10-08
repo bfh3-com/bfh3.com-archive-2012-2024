@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>salt creek cycles &#8211; Blooming Fools Hash House Harriers</title>
+	<atom:link href="http://www.bfh3.com/?feed=rss2&#038;tag=salt-creek-cycles" rel="self" type="application/rss+xml" />
+	<link>http://www.bfh3.com</link>
+	<description>A drinking club with a running problem.</description>
+	<lastBuildDate>Mon, 24 Aug 2015 20:36:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.9</generator>
+	<item>
+		<title>(funny bash event name)</title>
+		<link>http://www.bfh3.com/?p=1912</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2015 13:36:33 +0000</pubDate>
+				<category><![CDATA[Bashes]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[bicycles]]></category>
+		<category><![CDATA[funny]]></category>
+		<category><![CDATA[salt creek cycles]]></category>
+		<guid isPermaLink="false">http://www.bfh3.com/?p=1912</guid>
+
+					<description><![CDATA[Sunday just so happens to be Pop Goes the Weasel Day. It’s also Bourbon Day. It’s also Strawberry Shortcake Day. It’s also Flag Day. With all that packed into one day, I say it’s high time to ride our beers &#8230; <a href="http://www.bfh3.com/?p=1912">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="fsl"><a href="http://www.bfh3.com/wp-content/uploads/2015/06/11412105_10207093362919024_6769359854641934951_n.jpg"><img loading="lazy" class=" size-medium wp-image-1914 aligncenter" src="http://www.bfh3.com/wp-content/uploads/2015/06/11412105_10207093362919024_6769359854641934951_n-300x120.jpg" alt="11412105_10207093362919024_6769359854641934951_n" width="300" height="120" srcset="http://www.bfh3.com/wp-content/uploads/2015/06/11412105_10207093362919024_6769359854641934951_n-300x120.jpg 300w, http://www.bfh3.com/wp-content/uploads/2015/06/11412105_10207093362919024_6769359854641934951_n.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+Sunday just so happens to be Pop Goes the Weasel Day. It’s also Bourbon Day. It’s also Strawberry Shortcake Day. It’s also Flag Day. With all that packed into one day, I say it’s high time to ride our beers and drink our bikes and admire the summertime weather with friends.</span></p>
+<p>So, you are invited to spend Pop Flags the Bourbon Shortcake Day on a bash. Your bares will be Nuns Shall Pass and Hand’ersome Pooper and your trail will start at Salt Creek Cycles (4001 E 3rd St).</p>
+<p>When? Sunday June 14 at 3pm, BST<br />
+How much? $6 for those with popped weasels, free for those with weasels intact (virgins)<br />
+Where? Jeezuz I already told you, Salt Creek Cycles, 4001 E 3rd St</p>
+<p>Cum play with us!</p>
+<p>Directions: Take Third Street east from town, past the bypass, and past BloomingFoods. Go straight at the light at Smith Road, but look for Salt Creek Cycles on the left after the light at Smith. On on.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

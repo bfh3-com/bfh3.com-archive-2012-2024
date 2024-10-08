@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>griffy &#8211; Blooming Fools Hash House Harriers</title>
+	<atom:link href="http://www.bfh3.com/?feed=rss2&#038;tag=griffy" rel="self" type="application/rss+xml" />
+	<link>http://www.bfh3.com</link>
+	<description>A drinking club with a running problem.</description>
+	<lastBuildDate>Mon, 24 Aug 2015 20:36:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.9</generator>
+	<item>
+		<title>Fiddler on the Dam Wild Hare Hash</title>
+		<link>http://www.bfh3.com/?p=1906</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2015 13:30:21 +0000</pubDate>
+				<category><![CDATA[Hashes]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[fiddles]]></category>
+		<category><![CDATA[griffy]]></category>
+		<category><![CDATA[hash]]></category>
+		<category><![CDATA[Wild Hare]]></category>
+		<guid isPermaLink="false">http://www.bfh3.com/?p=1906</guid>
+
+					<description><![CDATA[Fiddles in town. Fiddles want hare. So Fiddles hare. Come hash with Fiddles. You meet Fiddles at boathouse parking lot, across the parkway on North Hinkle Road (Fiddles give GPS later). You do it now. You get beer. Fiddles give &#8230; <a href="http://www.bfh3.com/?p=1906">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="fsl">Fiddles in town. Fiddles want hare. So Fiddles hare. Come hash with Fiddles. You meet Fiddles at boathouse parking lot, across the parkway on North Hinkle Road (Fiddles give GPS later). You do it now. You get beer. Fiddles give free for virgins, $7 for people not virgin.</span><br />
+<a href="http://www.bfh3.com/wp-content/uploads/2015/06/1888698_10153397304257328_7479923356184242388_n.jpg"><img loading="lazy" class=" size-medium wp-image-1907 alignleft" src="http://www.bfh3.com/wp-content/uploads/2015/06/1888698_10153397304257328_7479923356184242388_n-300x215.jpg" alt="1888698_10153397304257328_7479923356184242388_n" width="300" height="215" srcset="http://www.bfh3.com/wp-content/uploads/2015/06/1888698_10153397304257328_7479923356184242388_n-300x215.jpg 300w, http://www.bfh3.com/wp-content/uploads/2015/06/1888698_10153397304257328_7479923356184242388_n.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><span class="fsl"><br />
+Hares: Fiddler on the Poop &amp; Circuscision<br />
+When: Saturday, June 13, 2015<br />
+Where: Griffy Lake boathouse lot<br />
+Time: 4:00 p.m.</span></p>
+<p>Directions: Take the 45/46 bypass to the corner of Fee Lane and the bypass, and instead of turning south, turn north onto Matlock Road. Drive till you cross the lake, then turn right into the boathouse parking lot. Park, hash hash hash.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

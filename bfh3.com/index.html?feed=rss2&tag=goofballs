@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>goofballs &#8211; Blooming Fools Hash House Harriers</title>
+	<atom:link href="http://www.bfh3.com/?feed=rss2&#038;tag=goofballs" rel="self" type="application/rss+xml" />
+	<link>http://www.bfh3.com</link>
+	<description>A drinking club with a running problem.</description>
+	<lastBuildDate>Sun, 27 Apr 2014 17:11:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.9</generator>
+	<item>
+		<title>Red Dress Postscript</title>
+		<link>http://www.bfh3.com/?p=1402</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Apr 2014 17:11:10 +0000</pubDate>
+				<category><![CDATA[Hashes]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[goofballs]]></category>
+		<category><![CDATA[red dress]]></category>
+		<guid isPermaLink="false">http://www.bfh3.com/?p=1402</guid>
+
+					<description><![CDATA[Yesterday&#8217;s Red Dress Hash raised $225 for People and Animal Learning Services! Thank you for your donations and for participating in this year&#8217;s Red Dress. For more information on where we&#8217;re giving the money, and if you&#8217;d still like to &#8230; <a href="http://www.bfh3.com/?p=1402">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://www.bfh3.com/wp-content/uploads/2014/04/10268405_10102191431979700_1485278206798329426_n.jpg"><img loading="lazy" class="size-medium wp-image-1403 alignleft" alt="10268405_10102191431979700_1485278206798329426_n" src="http://www.bfh3.com/wp-content/uploads/2014/04/10268405_10102191431979700_1485278206798329426_n-300x225.jpg" width="300" height="225" srcset="http://www.bfh3.com/wp-content/uploads/2014/04/10268405_10102191431979700_1485278206798329426_n-300x225.jpg 300w, http://www.bfh3.com/wp-content/uploads/2014/04/10268405_10102191431979700_1485278206798329426_n.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>Yesterday&#8217;s Red Dress Hash raised $225 for People and Animal Learning Services! Thank you for your donations and for participating in this year&#8217;s Red Dress.</p>
+<p>For more information on where we&#8217;re giving the money, and if you&#8217;d still like to donate, visit www.palstherapy.org. On on!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

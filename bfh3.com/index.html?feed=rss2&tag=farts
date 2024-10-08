@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>farts &#8211; Blooming Fools Hash House Harriers</title>
+	<atom:link href="http://www.bfh3.com/?feed=rss2&#038;tag=farts" rel="self" type="application/rss+xml" />
+	<link>http://www.bfh3.com</link>
+	<description>A drinking club with a running problem.</description>
+	<lastBuildDate>Sat, 22 Nov 2014 20:56:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.9</generator>
+	<item>
+		<title>Old Fart Bash</title>
+		<link>http://www.bfh3.com/?p=1723</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 22 Nov 2014 20:55:32 +0000</pubDate>
+				<category><![CDATA[Bashes]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[bicycles]]></category>
+		<category><![CDATA[farts]]></category>
+		<guid isPermaLink="false">http://www.bfh3.com/?p=1723</guid>
+
+					<description><![CDATA[Cum to the north shelter at Bryan Park on Sunday for the Old Fart Bash in celebration of the new moon! Trail will be appropriate for any old bike with any old fart riding it! $6 for experienced hashers and &#8230; <a href="http://www.bfh3.com/?p=1723">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Cum to the north shelter at Bryan Park on Sunday for the Old Fart Bash in celebration of the new moon! Trail will be appropriate for any old bike with any old fart riding it!</p>
+<p>$6 for experienced hashers and bashers, free for young farts.</p>
+<p>Map <a href="http://goo.gl/F1Gf7V">HERE</a><a href="http://www.bfh3.com/wp-content/uploads/2014/11/1969294_10101512701116637_1033426649633830645_n.jpg"><img loading="lazy" class="alignleft size-medium wp-image-1724" alt="1969294_10101512701116637_1033426649633830645_n" src="http://www.bfh3.com/wp-content/uploads/2014/11/1969294_10101512701116637_1033426649633830645_n-300x211.jpg" width="300" height="211" srcset="http://www.bfh3.com/wp-content/uploads/2014/11/1969294_10101512701116637_1033426649633830645_n-300x211.jpg 300w, http://www.bfh3.com/wp-content/uploads/2014/11/1969294_10101512701116637_1033426649633830645_n.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" /></a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

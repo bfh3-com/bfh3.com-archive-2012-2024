@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bicycle &#8211; Blooming Fools Hash House Harriers</title>
+	<atom:link href="http://www.bfh3.com/?feed=rss2&#038;tag=bicycle" rel="self" type="application/rss+xml" />
+	<link>http://www.bfh3.com</link>
+	<description>A drinking club with a running problem.</description>
+	<lastBuildDate>Fri, 16 May 2014 13:14:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.9</generator>
+	<item>
+		<title>Battle of the Wa Bash</title>
+		<link>http://www.bfh3.com/?p=1414</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 16 May 2014 11:56:18 +0000</pubDate>
+				<category><![CDATA[Bashes]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[beer]]></category>
+		<category><![CDATA[bicycle]]></category>
+		<category><![CDATA[tree]]></category>
+		<guid isPermaLink="false">http://www.bfh3.com/?p=1414</guid>
+
+					<description><![CDATA[Hop on your bike, pound a beer, follow trail, sing songs. Bare Hand&#8217;ersome Pooper (and potentially someone else) will take you on a streets and paths trail around Bloomington. Outside of that, come with some ideas of who you might &#8230; <a href="http://www.bfh3.com/?p=1414">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><span class="fsl">Hop on your bike, pound a beer, follow trail, sing songs. Bare Hand&#8217;ersome Pooper (and potentially someone else) will take you on a streets and paths trail around Bloomington.</span></p>
+<p>Outside of that, come with some ideas of who you might want to punk, as we&#8217;ll hold annual nominations for bash mismanagement positions.<a href="http://www.bfh3.com/wp-content/uploads/2014/05/10273232_803855276291605_580347576096626786_o.jpg"><img loading="lazy" class="alignright size-medium wp-image-1416" alt="10273232_803855276291605_580347576096626786_o" src="http://www.bfh3.com/wp-content/uploads/2014/05/10273232_803855276291605_580347576096626786_o-300x199.jpg" width="300" height="199" srcset="http://www.bfh3.com/wp-content/uploads/2014/05/10273232_803855276291605_580347576096626786_o-300x199.jpg 300w, http://www.bfh3.com/wp-content/uploads/2014/05/10273232_803855276291605_580347576096626786_o-1024x680.jpg 1024w, http://www.bfh3.com/wp-content/uploads/2014/05/10273232_803855276291605_580347576096626786_o.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Saturd<span class="text_exposed_show">ay May 17, 2014 at 4pm<br />
+Rev. Ernest D. Butler Park (9th Street Park)<br />
+Fairview Parking Lot<br />
+$6 for bashers, free for virgins</span></p>
+<p>[Note from a non-bare: A bash is a hash on bicycles. There&#8217;ll still be shiggy, and BT&#8217;s, and beer, just on bicycles. &#8216;Cause if you have half a mind to bash, that&#8217;s all you need, other than a bike and a helmet. On on!]</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

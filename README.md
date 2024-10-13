@@ -1,6 +1,6 @@
 # BFH3 WordPress website archive (2012–2024)
 
-[**View archive**](https://basham.github.io/bfh3.com-archive-2012-2024/)
+[**View archive**](https://bfh3-com.github.io/bfh3.com-archive-2012-2024/)
 
 Created: Oct 8, 2024
 
